@@ -1,4 +1,4 @@
-paprika
+Paprika
 ========
 
 Paprika, a framework for developing (near) real-time marketing solutions.
